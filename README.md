@@ -9,12 +9,12 @@ I added dynamic shadows on desktop view. Move your mouse over the page 😉
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](./images/screenshot.png)
 
 ## Links
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [github pages]()
+- Live Site URL: [github pages](https://reinhardwansch.github.io/testimonials-grid-section-FEM/)
 
 ## Built with
 
@@ -36,4 +36,4 @@ I discovered GitHub Copilot's new **plan** mode during this project. I'm plannin
 ## Author
 
 - Github - [ReinhardWansch](https://github.com/ReinhardWansch)
-- Frontend Mentor - [@ReinhardWansch]()
+- Frontend Mentor - [@ReinhardWansch](https://www.frontendmentor.io/profile/ReinhardWansch)
