@@ -1,28 +1,28 @@
 @import "tailwindcss";
 /* @import "./fonts.css"; */
 
-
-/*############*/
-/*## LAYOUT ##*/
-/*############*/
-@theme {
-    
-}
-
 /*################*/
 /*## TYPOGRAPHY ##*/
 /*################*/
-@theme {
-}
-@theme {
+@theme {}
 
-}
+@theme {}
 
 /*############*/
 /*## COLORS ##*/
 /*############*/
 @theme {
+    --color-fem-purple-50: hsl(260, 100%, 95%);
+    --color-fem-purple-300: hsl(264, 82%, 80%);
+    --color-fem-purple-500: hsl(263, 55%, 52%);
 
+    --color-fem-white: hsl(0, 0%, 100%);
+    --color-fem-grey-100: hsl(214, 17%, 92%);
+    --color-fem-grey-200: hsl(0, 0%, 81%);
+    --color-fem-grey-400: hsl(224, 10%, 45%);
+    --color-fem-grey-500: hsl(217, 19%, 35%);
+    --color-fem-dark-blue: hsl(219, 29%, 14%);
+    --color-fem-black: hsl(0, 0%, 7%);
 }
 
 /*#################*/
@@ -30,14 +30,4 @@
 /*#################*/
 .attribution {
     font-size: 11px;
-}
-
-
-
-/*###########*/
-/*## DEBUG ##*/
-/*###########*/
-
-body {
-    background-color: red;
 }
