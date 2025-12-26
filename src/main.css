@@ -4,7 +4,9 @@
 /*################*/
 /*## TYPOGRAPHY ##*/
 /*################*/
-@theme {}
+@theme {
+    --text-attribution: 11px; 
+}
 
 @theme {}
 
@@ -25,9 +27,3 @@
     --color-fem-black: hsl(0, 0%, 7%);
 }
 
-/*#################*/
-/*## ATTRIBUTION ##*/
-/*#################*/
-.attribution {
-    font-size: 11px;
-}
