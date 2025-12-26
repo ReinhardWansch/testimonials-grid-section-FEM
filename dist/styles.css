@@ -185,9 +185,6 @@
   .absolute {
     position: absolute;
   }
-  .fixed {
-    position: fixed;
-  }
   .relative {
     position: relative;
   }
@@ -199,9 +196,6 @@
   }
   .right-20 {
     right: calc(var(--spacing) * 20);
-  }
-  .bottom-0 {
-    bottom: calc(var(--spacing) * 0);
   }
   .z-10 {
     z-index: 10;
