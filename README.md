@@ -26,6 +26,9 @@ I added dynamic shadows on desktop view. Move your mouse over the page 😉
 
 I discovered GitHub Copilot's new **plan** mode during this project. I'm planning to explore and test it in my next challenge to see how it can improve my development workflow.
 
+For practice projects, linking Google Fonts via CDN is acceptable. In production environments, fonts should be served locally to improve performance, reduce external dependencies and avoid legal issues.
+
+
 ## Useful resources
 
 - [TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss)
